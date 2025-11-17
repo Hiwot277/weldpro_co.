@@ -1,1 +1,2 @@
-this is a figma to code projject
+This is a Figma-to-code project.
+
