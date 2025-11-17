@@ -1,4 +1,4 @@
 This is a Figma-to-code project.
-it have a hero section and chat bots that we can train to answer welding questions.
-it is build using vite
+It has a hero section and chatbots that we can train to answer welding questions.
+It is built using Vite.
 
